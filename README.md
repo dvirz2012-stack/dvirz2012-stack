@@ -23,21 +23,12 @@ src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt = "python" width = 45 height = 45>
 <img
 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" alt = "kalilinux" width = 45 height = 45>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img
+src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt = "java" width = 45 height = 45>
+<img
+src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt = "netlify" width = 45 height = 45> 
+<img
+src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt = "node.js" width = 45 height = 45>
+<img
+src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt = "GitHub" width = 45
+height = 45>
