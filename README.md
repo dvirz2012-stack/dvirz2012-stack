@@ -14,7 +14,7 @@ const dvir = {
   role: "Backend Dev",
   focus: ["Backends", "Cybersecurity", "Assembly"],
   languages: ["JavaScript", "Python", "Java", "Bash", "Assembly"],
-  currentlyLearning: "Low-level internals & offensive security",
+  currentlyLearning: "Low level internals & offensive security & JavaScript",
   freeTime: () => "building projects",
 };
 ```
@@ -22,9 +22,7 @@ const dvir = {
 -  I really like coding, especially building backends.
 -  Always looking forward to learning new and exciting subjects, with a deep interest in Cybersecurity and Assembly.
 -  In my free time I develop new projects and sharpen my skills in JavaScript, HTML and CSS.
--  Ask me about anything backend, Linux, or reverse engineering related.
--  I'm currently working on my JavaScript abilities, While learning new things.
--  
+-  Ask me about anything, backend or Linux.
 
 ---
 
