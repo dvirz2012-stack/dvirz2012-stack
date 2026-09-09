@@ -32,3 +32,7 @@ src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original
 <img
 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt = "GitHub" width = 45
 height = 45>
+<img
+src = "https://nmap.org/images/sitelogo-2x.png" alt = "nmap" width = 60  height = 45>
+<img
+src = "https://img.icons8.com/skeuomorphism/1200/assembly.jpg" alt = "assembly" width = 45 height = 45>
