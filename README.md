@@ -40,5 +40,5 @@ src = "https://img.icons8.com/skeuomorphism/1200/assembly.jpg" alt = "assembly" 
 
 <br />
 
-![GitHub Metrics](https://githubusercontent.com)
+![GitHub Metrics](github-metrics.svg)
 
