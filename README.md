@@ -23,6 +23,8 @@ const dvir = {
 -  Always looking forward to learning new and exciting subjects, with a deep interest in Cybersecurity and Assembly.
 -  In my free time I develop new projects and sharpen my skills in JavaScript, HTML and CSS.
 -  Ask me about anything backend, Linux, or reverse engineering related.
+-  I'm currently working on my JavaScript abilities, While learning new things.
+-  
 
 ---
 
