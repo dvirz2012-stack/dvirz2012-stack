@@ -26,7 +26,7 @@ const dvir = {
 
 ---
 
-## Tech Stack & Tools
+## Tech Stack && Tools
 
 <div align="center">
 
@@ -40,19 +40,19 @@ const dvir = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://img.icons8.com/skeuomorphism/1200/assembly.jpg" alt="assembly" width="45" height="45" />
 
-#### Backend & Data
+#### Backend && Data
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45" />
 
-#### Security & Systems
+#### Security && Systems
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" alt="kalilinux" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://nmap.org/images/sitelogo-2x.png" alt="nmap" width="60" height="45" />
 
-#### Tools & Deployment
+#### Tools && Deployment
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" />&nbsp;&nbsp;
