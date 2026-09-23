@@ -14,7 +14,7 @@ const dvir = {
   role: "Backend Dev",
   focus: ["Backends", "Cybersecurity", "Assembly"],
   languages: ["JavaScript", "Python", "Java", "Bash", "Assembly"],
-  currentlyLearning: "Low level internals & offensive security & JavaScript",
+  currentlyLearning: "Low level internals & offensive security & JavaScript & TypeScript",
   freeTime: () => "building projects",
 };
 ```
@@ -57,6 +57,10 @@ const dvir = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="netlify" width="45" height="45" />
+
+#### Currently learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" />&nbsp;&nbsp;
 
 </div>
 
