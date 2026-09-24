@@ -14,7 +14,7 @@ const dvir = {
   role: "Backend Dev",
   focus: ["Backends", "Cybersecurity", "Assembly"],
   languages: ["JavaScript", "Python", "Java", "Bash", "Assembly"],
-  currentlyLearning: "Low level internals & offensive security & JavaScript & TypeScript",
+  currentlyLearning: "Low level internals & offensive security & JavaScript & TypeScript & kotlin",
   freeTime: () => "building projects",
 };
 ```
@@ -39,6 +39,7 @@ const dvir = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://img.icons8.com/skeuomorphism/1200/assembly.jpg" alt="assembly" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />&nbsp;&nbsp;
 
 #### Backend && Data
 
@@ -61,6 +62,7 @@ const dvir = {
 #### Currently learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45" />&nbsp;&nbsp;
 
 </div>
 
