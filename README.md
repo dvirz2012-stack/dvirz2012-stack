@@ -68,7 +68,13 @@ const dvir = {
 </div>
 
 ---
+## What Am I Working On Right Now?
 
+My newest project is ["Portwarden"](https://github.com/dvirz2012-stack/portwarden), a web app for killing processes easily, without having to type the commands yourself.
+You can see which ports are open on your computer and terminate the process behind any of them with one click :)
+
+Made with Kotlin, TypeScript, HTML and CSS.
+---
 ## My Metrics
 
 <div align="center">
