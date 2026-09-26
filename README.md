@@ -21,7 +21,7 @@ const dvir = {
 
 -  I really like coding, especially building backends.
 -  Always looking forward to learning new and exciting subjects, with a deep interest in Cybersecurity and Assembly.
--  In my free time I develop new projects and sharpen my skills in JavaScript, HTML and CSS.
+-  In my free time I develop new projects and sharpen my skills in TypeScript, JavaScript and Kotlin.
 -  Ask me about anything, backend or Linux.
 
 ---
