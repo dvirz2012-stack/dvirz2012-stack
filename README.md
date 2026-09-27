@@ -14,7 +14,7 @@ const dvir = {
   role: "Backend Dev",
   focus: ["Backends", "Cybersecurity", "Assembly"],
   languages: ["JavaScript", "Python", "Java", "Bash", "Assembly"],
-  currentlyLearning: "Low level internals & offensive security & JavaScript & TypeScript & kotlin",
+  currentlyLearning: "Low level internals & offensive security & JavaScript & TypeScript & Kotlin",
   freeTime: () => "building projects",
 };
 ```
