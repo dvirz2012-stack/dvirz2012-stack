@@ -52,7 +52,7 @@ const dvir = {
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" alt="kalilinux" width="45" height="45" />&nbsp;&nbsp;
-<img src="https://nmap.org/images/sitelogo-2x.png" alt="nmap" width="60" height="45" />
+<img src="https://www.kali.org/images/tool-logo-nmap.svg" alt="nmap" width="60" height="45" />
 
 #### Tools && Deployment
 
