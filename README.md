@@ -41,6 +41,8 @@ const dvir = {
 <img src="https://img.icons8.com/skeuomorphism/1200/assembly.jpg" alt="assembly" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45" />&nbsp;&nbsp;
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Powershell_128.svg/1280px-Powershell_128.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="powershell" width="45" height="45" />&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Z_Shell_Logo_Color_Vertical.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" alt="zsh" width="45" height="45" />&nbsp;&nbsp;
 
 #### Backend && Data
 
@@ -55,13 +57,24 @@ const dvir = {
 <img src="https://www.kali.org/images/tool-logo-nmap.svg" alt="nmap" width="45" height="45" />
 <img src="https://www.kali.org/images/tool-logo-john.svg" alt="johntheripper" width="45" height="45" />
 
+#### Frameworks && Libraries
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="reactrouter" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45" />
+
 #### Tools && Deployment
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="json" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="netlify" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="google-cloud-console" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="45" height="45" />
+<img src="https://e1.pngegg.com/pngimages/316/669/png-clipart-ios-7-8-style-icons-for-java-jar-thumbnail.png" alt="javajar" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" alt="npm" width="45" height="45" />
+
 
 #### Currently learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />&nbsp;&nbsp;
