@@ -120,10 +120,6 @@ Made with Kotlin, TypeScript, HTML and CSS.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dvirz2012-stack&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF" alt="Contribution Graph" width="100%" />
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvirz2012-stack/dvirz2012-stack/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvirz2012-stack/dvirz2012-stack/output/snake-light.svg" />
