@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0c2d6b,70:1f6feb,100:58a6ff&height=220&section=header&animation=fadeIn" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dvir+%F0%9F%91%8B;Backend+Dev;Cybersecurity+Enthusiast;Assembly+Tinkerer" alt="Typing SVG" />
 
 <br/>
