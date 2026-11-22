@@ -1,14 +1,14 @@
 <div align="center">
 
-  <h1>Hey, I'm Dvir 👋</h1>
+  <h1>Hey, I'm Dvir :)</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Backend+developer;Cybersecurity+enthusiast;Assembly+tinkerer;Always+building.+Always+learning." alt="Backend developer, cybersecurity enthusiast, and assembly tinkerer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Backend+developer;Cybersecurity+enthusiast;Assembly+tinkerer;Building+my+own+programming+language" alt="Backend developer, cybersecurity enthusiast, and assembly tinkerer" />
 
   <p>I build backends, explore systems, and turn ideas into projects.</p>
 
   <p>
     <a href="#about-me">About</a> &nbsp;·&nbsp;
-    <a href="#featured-project">Project</a> &nbsp;·&nbsp;
+    <a href="#featured-project">Projects</a> &nbsp;·&nbsp;
     <a href="#tech-stack">Tech stack</a> &nbsp;·&nbsp;
     <a href="#currently-learning">Learning</a> &nbsp;·&nbsp;
     <a href="#github-activity">Activity</a>
@@ -20,7 +20,7 @@
 
 ## About me
 
-I enjoy building backends and understanding how things work underneath—from Linux and cybersecurity to Assembly and low-level internals.
+I enjoy building backends and understanding how things work underneath, from Linux and cybersecurity to Assembly and low-level internals.
 
 ```js
 const dvir = {
@@ -50,6 +50,15 @@ A web app that shows the open ports on your computer and lets you terminate the 
 
 [Explore the repository →](https://github.com/dvirz2012-stack/portwarden)
 
+## More projects
+
+| Project | What it is | Built with |
+|---------|------------|------------|
+| [Vertex](https://github.com/dvirz2012-stack/vertex-lang) | My own programming language, built from scratch. It can already read code and break it into tokens, and it's learning to run programs next :) | Java |
+| [Paper Trading Exchange](https://github.com/dvirz2012-stack/paper-trading-exchange) | A pretend stock market for beginners to practice in, starting with an order book that matches buyers and sellers. There's also a [Swift version](https://github.com/dvirz2012-stack/paper-trading-exchange-swift) for the Apple fans. | TypeScript, Swift |
+| [Portwarden for Mac](https://github.com/dvirz2012-stack/portwardenMacbook) | Portwarden, learning to speak macOS. Work in progress. | Kotlin |
+| [Tic-Tac-Toe](https://github.com/dvirz2012-stack/tictactoe-java) | A console Tic-Tac-Toe game with four kinds of players, including one that learns from its own games. | Java |
+
 ## Tech stack
 
 ### Languages
@@ -61,7 +70,7 @@ A web app that shows the open ports on your computer and lets you terminate the 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="42" height="42" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="42" height="42" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" title="Swift" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" title="SwiftUI — UI framework for Swift" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" title="SwiftUI, the UI framework for Swift" width="42" height="42" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="42" height="42" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="42" height="42" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="42" height="42" />
